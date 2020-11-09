@@ -85,7 +85,7 @@ All (Teacher, Student, The University Principal and Administrative Staff) would 
 
 ## Task - Day #05
 
-17. Provision a SQL Azure Shared Instance for the application, and run the SQL Scripts to prepare the Cloud Database for the portal.
+17. Provision a **SQL Azure Shared Instance** for the application, and run the SQL Scripts to prepare the Cloud Database for the portal.
 
 18. Tweak the application, especially:
 - Implementing **Output Caching** where needed
